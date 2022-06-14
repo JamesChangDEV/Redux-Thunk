@@ -10,8 +10,8 @@ This Application is a boilerplate for Type Safe redux Applications. React + Redu
 ## Setup
 
 ```
-npm install
+yarn install
 
-npm run start
+yarn start
 
 ```
